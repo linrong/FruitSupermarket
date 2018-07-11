@@ -14,6 +14,7 @@ Django: 2.0.2
 ### 教程
 [博客1](http://www.cnblogs.com/derek1184405959/p/8733194.html)<br /> 
 [博客2](http://lawtech0902.com/2017/11/03/vue-django-1-1/)<br /> 
+[github1](https://github.com/mtianyan/VueDjangoFrameWorkShop)<br /> 
 ### xadmin下载地址
 [点击下载](https://github.com/sshwsfc/xadmin/tree/django2)<br /> 
 ### 富文本编辑器Ueditor下载地址
